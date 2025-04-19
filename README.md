@@ -67,7 +67,7 @@ Sitemaps in Figma — The Top Layer
 Sitemaps in Figma — Digging Deeper
 Tips for Creating Great Sitemaps
 
-## 02 EXPLORE AND ITERATE – Wireframes, Prototyping and Feedback
+### 02 EXPLORE AND ITERATE – Wireframes, Prototyping and Feedback
 
 * 1. Wireframes
 
