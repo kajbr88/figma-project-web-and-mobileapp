@@ -6,9 +6,9 @@ This repository contains the UI/UX design project I completed as part of the "Co
 
 The topics covered in the course are...
 
-## 00 Web & Mobile Design Principles +  Design vs Web Development
+# 00 Web & Mobile Design Principles +  Design vs Web Development
 
-## 01 GETTING STARTED – Sketching, Inspiration + Structure
+# 01 GETTING STARTED – Sketching, Inspiration + Structure
 
 * 1. Sketching
 
