@@ -1,6 +1,6 @@
 # Complete Web & Mobile Designer: UI/UX, Figma, +more 
 
-This repository contains the various UI/UX design projects I completed as part of the "Complete Web & Mobile Designer: UI/UX, Figma, +more" course on Udemy, taught by Andrei Neagoie and Daniel Schifano from Zero to Mastery. This comprehensive course equipped me with a strong foundation in user interface (UI) and user experience (UX) principles, along with practical skills in industry-standard tools like Figma.
+This repository contains the UI/UX design project I completed as part of the "Complete Web & Mobile Designer: UI/UX, Figma, +more" course on Udemy, taught by Andrei Neagoie and Daniel Schifano from Zero to Mastery. This comprehensive course equipped me with a strong foundation in user interface (UI) and user experience (UX) principles, along with practical skills in industry-standard tools like Figma.
 
 ## Course Highlights & Key Learnings
 
