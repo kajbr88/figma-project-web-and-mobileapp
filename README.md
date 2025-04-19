@@ -8,7 +8,7 @@ The topics covered in the course are...
 
 ### 00 Web & Mobile Design Principles +  Design vs Web Development
 
-# 01 GETTING STARTED – Sketching, Inspiration + Structure
+### 01 GETTING STARTED – Sketching, Inspiration + Structure
 
 * 1. Sketching
 
@@ -98,7 +98,7 @@ Project — Finding a Product
 Why Is Feedback Important?
 Constructive Feedback
 
-## 03 VISUAL DESIGN – Design Theory + Accessibility
+### 03 VISUAL DESIGN – Design Theory + Accessibility
 
 * 1. Spacing and Grids
 
@@ -176,7 +176,7 @@ Assistive Technologies
 Visual Patterns For Accessibility
 Tools To Make Your Design Accessible
 
-## 04 DESIGN EXPLORATION – Application Design + Design Systems
+### 04 DESIGN EXPLORATION – Application Design + Design Systems
 
 * 1. Design Patterns
 
@@ -216,7 +216,7 @@ Project — Drag Onboarding
 Project — Cart Overlay
 Project — Button Microinteraction
 
-## 05 PUTTING IT ALL TOGETHER – Using our Design System and Hi-Fi prototyping with Figma
+### 05 PUTTING IT ALL TOGETHER – Using our Design System and Hi-Fi prototyping with Figma
 
 * 1. Design Systems
 
@@ -247,14 +247,14 @@ Prototypes — Checkout
 Prototypes — Lottie Files Plugin
 Prototypes — Search and Filters
 
-## 06 FROM FIGMA TO WEBSITE (take a Figma design and convert it to a live website using HTML and CSS)
+### 06 FROM FIGMA TO WEBSITE (take a Figma design and convert it to a live website using HTML and CSS)
 
-## 07 HTML + HTML5
+### 07 HTML + HTML5
 
-## 08 CSS + CSS3 - CSS Basics, CSS Grid, Flexbox, CSS Animations
+### 08 CSS + CSS3 - CSS Basics, CSS Grid, Flexbox, CSS Animations
 
-## 09 PUTTING YOUR WEBSITE ONLINE
+### 09 PUTTING YOUR WEBSITE ONLINE
 
-## Acknowledgements
+### Acknowledgements
 
 I would like to express my gratitude to Andrei Neagoie and Daniel Schifano for creating such an insightful and practical course. Their guidance and the comprehensive curriculum have been instrumental in my journey to becoming a web and mobile designer.
