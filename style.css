@@ -6,7 +6,7 @@ html {
 
 body {
   margin: 0;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
   font-family: Lato, sans-serif;
   color: #54575A;
   background: linear-gradient(180deg, #FFFFFF 0%, #F3F8F7 49.91%, #FFF9F5 94.19%);
@@ -21,8 +21,8 @@ body {
 
 .brand-img {
   position: absolute;
-  width: 193px;
-  height: 47.64px;
+  width: 250px;
+  height: 65px;
   left: 221px;
   top: 50.25px;
 }
@@ -44,7 +44,7 @@ body {
   width: 394px;
   height: 96px;
   left: 221px;
-  top: 403px;
+  top: 409px;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
@@ -56,7 +56,7 @@ body {
   width: 138.44px;
   height: 46.28px;
   left: 221px;
-  top: 531px;
+  top: 630px;
 }
 
 .app-store-btn img {
@@ -69,7 +69,7 @@ body {
   width: 156.19px;
   height: 46.28px;
   left: 381px;
-  top: 531px;
+  top: 630px;
 }
 
 .google-play-btn img {
